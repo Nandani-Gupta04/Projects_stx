@@ -1,3 +1,4 @@
+//This is a simple tic-tac-toe game
 #include<iostream>
 using namespace std;
 char board[3][3];
